@@ -131,4 +131,4 @@ MIT License
 
 ## Author
 
-Academic Paper Metadata Extractor Team
+Haadi Ali - CrumWorld Team
